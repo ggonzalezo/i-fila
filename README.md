@@ -1,2 +1,2 @@
-# i-fila
+# Smart Queue
 Proyecto Taller de Ingeniería de Software
