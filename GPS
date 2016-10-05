@@ -1,0 +1,21 @@
+<script>
+$(document).ready(function(){
+$.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) { // se obtiene libreria para geo
+
+					$("#pais").text(data.address.country); // pias de donde entra
+					
+					//función geolocalizacion
+						if (navigator.geolocation) {
+							navigator.geolocation.watchPosition(showPosition); // se revisa si geolocalización está aceptada por browser
+						} else { 
+							alert("Geolocation is not supported by this browser.");} // mensaje de caso fallido
+						
+					function showPosition(position) {//comienzo geo localización 
+						$("#lat").text(position.coords.latitude); 	// latitud
+						$("#long").text(position.coords.longitude);	// longitud
+						$("#accu").text(position.coords.accuracy);	// precisión 	
+					}//fin geolocalizacion
+					
+				});//fin detecion pais
+	});	
+</script>        
