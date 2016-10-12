@@ -1,0 +1,52 @@
+1.	Interfaces y su descripción 
+
+El diseño de las interfaces es una etapa muy importante dentro de este proyecto, dado que los clientes utilizarán constantemente 
+la aplicación. Es por esto que se deben cumplir altos criterios de usabilidad de software, para obtener una aplicación atractiva
+pero muy fácil de utilizar.
+Para crear el prototipo, se analizaron diferentes aplicaciones que permitían apoyar el desarrollo de las interfaces, tales como 
+Cacoo, Prototyper, Pencil, Marvelapp, etcétera, sin embargo, para obtener los mejores resultados, se ha decidido utilizar Just In Mind. 
+Just In Mind  es un programa que apoya el desarrollo de un prototipo de manera profesional y rápida, permitiendo una mejor comunicación
+de la idea. Ellos mismos se definen como que amantes de lo que hacen y con aspiración a las estrellas. 
+En nuestro equipo creemos firmemente que esta herramienta perfecta para nuestras necesidades.
+Por otra parte, si bien Just In Mind es un programa pagado, existe una versión de prueba que es gratuita y que ofrece lo necesario
+para desarrollar nuestro prototipo.
+
+1.       Interfaces y descripción:
+En una primera etapa, se desarrollaron interfaces elementales, estas fueron desarrolladas sin una aplicación profesional, sino que
+únicamente con herramientas elementales de informática, de todas formas se logró el objetivo y se pudo transmitir inicialmente la idea
+para poder ser mostrada a los clientes en una etapa inicial.
+A continuación se muestran las interfaces que se han desarrollado actualmente. Algunas de estas han sido actualizadas 
+mediante el software profesional y otras aún se encuentran en la etapa inicial, de todas formas se adjuntan ambas versiones
+cuando esto es posible.
+
+Inicio: En esta interface, se observa una muestra de cómo espera verse el ícono en un Smartphone cuando recién descarga la aplicación.
+
+Menu: En el menú el cliente podrá seleccionar lo que desea hacer en la aplicación, y podrá elegir entre Iniciar Sesión, Registrarse, solicitar ayuda o salir.
+
+Log In: La ventana de Log In, es aquella donde los clientes ingresan al abrir la aplicación, en esta ventana se deben ingresar los datos como usuario y contraseña o bien con una cuenta de Facebook. Si el cliente no cuenta con alguna deberá podrá hacer click previamente en Registro, o bien en esta misma ventana en la zona que dice “Solicita tu clave”. Si el cliente olvida su cuenta, podrá solicitar recuperar la clave haciendo click en “Recupera tu clave”, por otra parte en cualquier momento podrá acceder a la zona de Ayuda presionando “¿Necesitas Ayuda?”.
+
+Registro con Facebook: En Registro el cliente podrá asociar su cuenta de Facebook al sistema, para poder usar el servicio. En esta etapa el cliente si no tiene una cuenta de Facebook también podrá crearla como también recuperar su contraseña o solicitar acceso a la página de ayuda.
+
+Aceptar Uso Localización: Esta ventana aparecerá cuando la aplicación vaya a hacer uso del GPS del teléfono, de esta forma el cliente puede aceptar o rechazar el uso de este. 
+
+
+Localizando: Esta interface aparecerá cuando el programa realizará la correlación entre las coordenadas entregadas por el GPS y la ubicación de la persona, para así sugerir el posible supermercado en el que se encuentra.
+Con el fin de indicar al cliente que la aplicación está trabajando en la búsqueda, aparecerá un símbolo dinámico de espera al centro de la pantalla.
+
+Ingreso Número cliente: En esta ventana el cliente deberá ingresar el número que le fue asignado, de esta manera el sistema calculará cuanto tiempo estimado queda para su atención. 
+Luego de ingresado, deberá presionar en Siguiente; además en la zona inferior aparecerá contantemente publicidad.
+
+Interface Espera: Esta ventana aparecerá cuando la aplicación determine el tiempo estimado que le queda al cliente para que comience su turno.
+    
+Confirmación Atención: Cuando se complete el tiempo de espera, la aplicación le indicará que le toca y consultará si terminó su atención, a lo que podrá responder SI o NO.
+
+Feedback: Con el fin de popularizar la aplicación, generar campañas de marketing, posicionamiento entre otras, es que se solicitará un feedback por parte de los usuarios, esta consistirá en likes de Facebook o reclamos y sugerencias directamente.
+     
+
+
+   
+
+
+
+ 
+  
